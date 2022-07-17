@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Row
+  - Tree
+  - Leaf
+  - Ground
+  - Leaf List
+  - Dead Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Leaf
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1673267441
+    locked: 0
+  - name: Leaf
+    uniqueID: 3056355799
+    locked: 0
+  - name: FX
+    uniqueID: 3926381339
+    locked: 0
+  - name: Tree
+    uniqueID: 1961564419
+    locked: 0
